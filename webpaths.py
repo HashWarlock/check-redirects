@@ -2,7 +2,7 @@ import csv
 import requests
 
 file_path = "./redirects.csv"
-http_path = "https://docs.phala.network/v1/~/revisions/VqKGTgEXu3pvfGP8iACH/"
+http_path = "https://docs.phala.network/~/revisions/alPPvyUzrzeD9V282y7a/"
 
 
 def test_redirects():
